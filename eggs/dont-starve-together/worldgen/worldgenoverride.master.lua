@@ -103,7 +103,7 @@ return {
         task_set="default",                       --     World | Biomes                                                             default (Together) classic (Classic) 
         start_location="default",                 --     World | Spawn Area                                                         plus (Plus) darkness (Dark) default (Default) 
         world_size="huge",                        --     World | World Size                                                         small (Small) medium (Medium) default (Large) huge (Huge) 
-        branching="least",                        --     World | Branches                                                           never (Never) least (Least) default (Default) most (Most) random (Random) 
+        branching="default",                      --     World | Branches                                                           never (Never) least (Least) default (Default) most (Most) random (Random) 
         loop="default",                           --     World | Loops                                                              never (Never) default (Default) always (Always) 
         touchstone="always",                      --     World | Touch Stones                                                       never (None) rare (Little) uncommon (Less) default (Default) often (More) mostly (Lots) always (Tons) insane (Insane) 
         boons="insane",                           --     World | Failed Survivors                                                   never (None) rare (Little) uncommon (Less) default (Default) often (More) mostly (Lots) always (Tons) insane (Insane) 
